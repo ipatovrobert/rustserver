@@ -1,0 +1,348 @@
+20:12 [Info] Loading Oxide Core v2.0.3991...
+20:12 [Info] Loading extensions...
+20:12 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+20:12 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+20:12 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+20:12 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+20:12 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+20:12 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+20:12 [Info] Local compiler MD5: 0
+20:12 [Info] Compiler MD5 hash did not match, downloading latest
+20:12 [Info] Downloading Compiler.exe for .cs (C#) plugin compilation
+20:12 [Info] Local MD5 hash did not match remote MD5 hash for Compiler.exe, attempting download again
+20:12 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+20:12 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+20:12 [Info] Using Covalence provider for game 'Rust'
+20:12 [Info] Loading plugins...
+20:12 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+20:12 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+20:18 [Info] IP address from Steam query: 0.0.0.0
+20:26 [Info] StackSizeController was compiled successfully in 2089ms
+20:26 [Info] [Stack Size Controller] Generating a new config file...
+20:26 [Info] [Stack Size Controller] Added item category: 'Attire' to the config.
+20:26 [Info] [Stack Size Controller] Added item category: 'Misc' to the config.
+20:26 [Info] [Stack Size Controller] Added item category: 'Items' to the config.
+20:26 [Info] [Stack Size Controller] Added item category: 'Construction' to the config.
+20:26 [Info] [Stack Size Controller] Added item category: 'Component' to the config.
+20:26 [Info] [Stack Size Controller] Added item category: 'Traps' to the config.
+20:26 [Info] [Stack Size Controller] Added item category: 'Electrical' to the config.
+20:26 [Info] [Stack Size Controller] Added item category: 'Fun' to the config.
+20:26 [Info] [Stack Size Controller] Added item category: 'Food' to the config.
+20:26 [Info] [Stack Size Controller] Added item category: 'Resources' to the config.
+20:26 [Info] [Stack Size Controller] Added item category: 'Tool' to the config.
+20:26 [Info] [Stack Size Controller] Added item category: 'Medical' to the config.
+20:26 [Warning] Calling 'OnServerInitialized' on 'StackSizeController v2.0.4' took 115ms
+20:26 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+20:33 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+20:33 [Warning] Calling 'OnServerInitialized' on 'StackSizeController v2.0.4' took 127ms
+20:33 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+20:34 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+20:34 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+20:35 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+20:35 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+20:37 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+20:37 [Info] Usage: oxide.reload *|<pluginname>+
+20:40 [Info] GatherManager was compiled successfully in 10919ms
+20:40 [Warning] [Gathering Manager] New configuration file created.
+20:40 [Warning] [Gathering Manager] Configuration file updated.
+20:40 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 959ms
+20:40 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+20:48 [Error] Could not load plugin 'gathermanager' (no plugin found with that file name)
+20:48 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 261ms
+20:48 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+20:48 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 250ms
+20:48 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+20:52 [Info] FurnaceSplitter was compiled successfully in 12479ms
+20:52 [Warning] [Furnace Splitter] Creating default config for FurnaceSplitter.
+20:52 [Info] Loaded plugin Furnace Splitter v2.2.9 by FastBurst
+20:53 [Info] TimeOfDay was compiled successfully in 1609ms
+20:53 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+20:55 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+20:55 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+20:56 [Info] CraftingController was compiled successfully in 9566ms
+20:56 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+20:57 [Info] The current crafting rate is 50%
+20:57 [Info] The crafting rate was updated to 100 %
+20:59 [Info] BlueprintManager was compiled successfully in 14960ms
+20:59 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+21:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+21:01 [Info] MagicLoot was compiled successfully in 8588ms
+21:01 [Warning] [Magic Loot] Creating a new configuration file
+21:01 [Info] [Magic Loot] Added 678 new items to the item list!
+21:01 [Info] [Magic Loot] Added 51 missing containers to the config file.
+21:01 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: False, Multiply Tea Buffs: False]
+21:01 [Info] [Magic Loot] Repopulated 3451 loot containers.
+21:01 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 1884ms
+21:01 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:01 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 1885ms
+21:08 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+21:08 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 806ms
+21:08 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:08 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: False, Multiply Tea Buffs: False]
+21:08 [Info] [Magic Loot] Repopulated 3486 loot containers.
+21:08 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 1559ms
+21:08 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:08 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 1559ms
+21:10 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+21:10 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 807ms
+21:10 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:10 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+21:10 [Info] [Magic Loot] Repopulated 3439 loot containers.
+21:10 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 3612ms
+21:10 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:11 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 3612ms
+21:12 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+21:12 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1350ms
+21:12 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took average 11ms
+21:12 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:12 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+21:12 [Info] [Magic Loot] Repopulated 3437 loot containers.
+21:12 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 3872ms
+21:12 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:12 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 3875ms
+21:14 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+21:14 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1153ms
+21:14 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:14 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+21:14 [Info] [Magic Loot] Repopulated 3398 loot containers.
+21:14 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 4039ms [GARBAGE COLLECT]
+21:14 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:14 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 4040ms
+21:14 [Error] Could not load plugin '2' (no plugin found with that file name)
+21:14 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+21:14 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1820ms
+21:14 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:14 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+21:14 [Info] [Magic Loot] Repopulated 3449 loot containers.
+21:14 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 1843ms
+21:14 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:15 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+21:15 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1575ms
+21:15 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took average 0ms
+21:15 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:15 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+21:15 [Info] [Magic Loot] Repopulated 3417 loot containers.
+21:15 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 1527ms
+21:15 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+21:15 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 1528ms
+22:10 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took 126ms
+23:08 [Info] Usage: oxide.reload *|<pluginname>+
+23:18 [Info] SimpleLoot was compiled successfully in 14232ms
+23:18 [Warning] [Simple Loot] Generating new config file...
+23:18 [Warning] [Simple Loot] Added field to config: Settings/Multipliers
+23:18 [Warning] [Simple Loot] Added field to config: Settings/Replace items with blueprints
+23:18 [Warning] [Simple Loot] Repopulating 3668 loot containers.
+23:18 [Warning] Calling 'OnServerInitialized' on 'SimpleLoot v1.0.91' took 3848ms
+23:18 [Info] Loaded plugin Simple Loot v1.0.91 by MisterPixie
+23:18 [Warning] Calling 'OnLootSpawn' on 'SimpleLoot v1.0.91' took average 3848ms
+23:18 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_normal[475353] (LootContainer), SimpleLoot (True (Boolean))
+23:18 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_normal[475364] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475410] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475420] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_normal_2[475428] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475435] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_2[475444] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - oil_barrel[475452] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_2[475460] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475468] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - oil_barrel[475477] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475485] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_2[475493] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475501] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_2[475509] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475517] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475526] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_normal_2[475534] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475542] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475551] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_2[475559] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475567] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475575] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - vehicle_parts[475582] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475591] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_normal_2[475599] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_2[475608] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_1[475618] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - oil_barrel[475627] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_normal_2[475637] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_2[475647] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - loot_barrel_2[475657] (LootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475671] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475678] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475684] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475691] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475698] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_advanced[475708] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475724] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475731] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475737] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475745] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475753] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475761] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475767] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_advanced[475775] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475790] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_advanced[475796] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475812] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_advanced[475819] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475836] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475843] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475853] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475861] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_advanced[475870] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475886] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_advanced[475895] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475912] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475921] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475927] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475933] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475939] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475948] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475956] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475962] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475970] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475980] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475986] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[475992] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[476000] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[476008] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[476014] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[476024] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[476032] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[476039] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[476045] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - crate_underwater_basic[476055] (FreeableLootContainer), SimpleLoot (True (Boolean))
+23:19 [Warning] Calling hook OnLootSpawn resulted in a conflict between the following plugins: MagicLoot - supply_drop[476082] (SupplyDrop), SimpleLoot (True (Boolean))
+23:20 [Info] Unloaded plugin Simple Loot v1.0.91 by MisterPixie
+23:22 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:22 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1455ms
+23:22 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:22 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:22 [Info] [Magic Loot] Repopulated 3751 loot containers.
+23:22 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 2724ms
+23:22 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:24 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:24 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1383ms
+23:24 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:24 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:24 [Info] [Magic Loot] Repopulated 3761 loot containers.
+23:24 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 2654ms [GARBAGE COLLECT]
+23:24 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:25 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:25 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1117ms
+23:25 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:25 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:25 [Info] [Magic Loot] Repopulated 3743 loot containers.
+23:25 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 2818ms
+23:25 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:30 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:30 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1153ms
+23:30 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:30 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:30 [Info] [Magic Loot] Repopulated 3612 loot containers.
+23:30 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 3133ms
+23:30 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:30 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 3133ms
+23:31 [Error] Could not load plugin '2' (no plugin found with that file name)
+23:31 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:31 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1071ms
+23:31 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:31 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:31 [Info] [Magic Loot] Repopulated 3627 loot containers.
+23:31 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 2472ms
+23:31 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:31 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 2472ms
+23:33 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:33 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 2891ms
+23:33 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:33 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:33 [Info] [Magic Loot] Repopulated 3414 loot containers.
+23:33 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 2391ms
+23:33 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:33 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 2400ms
+23:35 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:35 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1938ms
+23:35 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:35 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:35 [Info] [Magic Loot] Repopulated 3414 loot containers.
+23:35 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 1687ms
+23:35 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:35 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 1687ms
+23:36 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:36 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 2058ms
+23:36 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:36 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:37 [Info] [Magic Loot] Repopulated 3437 loot containers.
+23:37 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 2471ms
+23:37 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:37 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:37 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1717ms
+23:37 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took average 2471ms
+23:37 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:37 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:37 [Info] [Magic Loot] Repopulated 3638 loot containers.
+23:37 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 2198ms
+23:37 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:37 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 2198ms
+23:38 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:38 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1632ms
+23:38 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:38 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:38 [Info] [Magic Loot] Repopulated 3654 loot containers.
+23:38 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 1598ms
+23:38 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:38 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 1598ms
+23:39 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:39 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1450ms
+23:39 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:39 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:39 [Info] [Magic Loot] Repopulated 3680 loot containers.
+23:39 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 1489ms
+23:39 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:45 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:45 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 999ms
+23:45 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:45 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:45 [Info] [Magic Loot] Repopulated 3646 loot containers.
+23:45 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 1290ms
+23:45 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:46 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:46 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1243ms
+23:46 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:46 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:46 [Info] [Magic Loot] Repopulated 3650 loot containers.
+23:46 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 2403ms
+23:46 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:46 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 2403ms
+23:49 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:49 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1227ms
+23:49 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:49 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:49 [Info] [Magic Loot] Repopulated 3573 loot containers.
+23:49 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 1700ms
+23:49 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:56 [Error] Could not load plugin 'MagicLoad' (no plugin found with that file name)
+23:56 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:56 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1180ms
+23:56 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:56 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:56 [Info] [Magic Loot] Repopulated 3671 loot containers.
+23:56 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 2287ms
+23:56 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:56 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 2287ms
+23:58 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:58 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1357ms
+23:58 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:58 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:58 [Info] [Magic Loot] Repopulated 3718 loot containers.
+23:58 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 2396ms
+23:58 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:58 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 2396ms
+23:59 [Info] [Magic Loot] Restored '0' loot data item ranges to default...
+23:59 [Warning] Calling 'Unload' on 'MagicLoot v1.0.4' took 1946ms
+23:59 [Info] Unloaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:59 [Info] [Magic Loot] Loaded at x1 vanilla rate | Manual Item List at x1 rate [Extra Loot: True, Multiply Tea Buffs: False]
+23:59 [Info] [Magic Loot] Repopulated 3667 loot containers.
+23:59 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v1.0.4' took 1737ms
+23:59 [Info] Loaded plugin Magic Loot v1.0.4 by collect_vood & Norn
+23:59 [Warning] Calling 'OnLootSpawn' on 'MagicLoot v1.0.4' took average 1746ms

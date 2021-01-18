@@ -1,0 +1,15 @@
+[SERVER v1.0.24] Started as service
+[SERVER v1.0.24] Running as service
+[SERVER v1.0.24] Got Message: Ready
+[SERVER v1.0.24] Got Message: Compile
+[SERVER v1.0.24] Console: PlayerAdministration.cs(52,27): warning CS1692: Invalid number
+PlayerAdministration.cs(74,27): warning CS1692: Invalid number
+PermissionsManager.cs(299,24): warning CS0219: The variable `granted' is assigned but its value is never used
+PermissionsManager.cs(353,20): warning CS0219: The variable `guiString' is assigned but its value is never used
+PermissionsManager.cs(384,20): warning CS0219: The variable `guiString' is assigned but its value is never used
+PlayerAdministration.cs(72,24): warning CS0169: The private field `Oxide.Plugins.PlayerAdministration.Clans' is never used
+
+[SERVER v1.0.24] Got Message: Exit
+[SERVER v1.0.24] Exit received.
+[SERVER v1.0.24] Connection closed.
+[SERVER v1.0.24] Shutdown
